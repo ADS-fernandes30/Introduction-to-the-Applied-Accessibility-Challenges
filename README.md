@@ -1,2 +1,3 @@
-# Introduction-to-the-Applied-Accessibility-Challenges
-FreeCodeCamp - Responsive Web Design Certification
+# HTML-Lists-Assignement
+
+The Web Developer Bootcamp - Making ordered lists, unordered lists and bullet point analysts.
